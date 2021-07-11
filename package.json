@@ -1,0 +1,26 @@
+{
+  "name": "@socketkit/ajv-base64",
+  "version": "1.0.1",
+  "description": "Ajv validation for base64 strings",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yagiz Nizipli <yagiz@nizipli.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ajv": "^8.6.1"
+  },
+  "peerDependencies": {
+    "ajv": "^8.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/socketkit/ajv-base64/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  }
+}
